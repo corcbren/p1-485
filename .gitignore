@@ -2,7 +2,7 @@
 *.log
 *.egg-info/
 *.pyc
-.DS_STORE
+.DS_Store
 __pycache__/
 env/
 .vagrant/
